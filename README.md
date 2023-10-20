@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaming, game development and graphic design
 - 🌱 I’m currently learning how to use unreal engine 4, along with some modeling. 
 - 💞️ I’m looking to collaborate on games or teach me how to code.
-- 📫 How to reach me younggamer604@gmail.com
+- 📫 How to reach me telegram https://t.me/littletbigt
 
 <!---
 tosagger/tosagger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
